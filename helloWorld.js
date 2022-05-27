@@ -1,1 +1,2 @@
-console.log("Git is Awesome!");
+const input = prompt("What's your name?");
+alert(`Your name is ${input}`);
